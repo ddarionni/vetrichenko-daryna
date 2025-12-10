@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="25.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="ua.khpi.oop.vetrichenko07.AddressEntry">
+    <void property="address">
+     <string>Канів</string>
+    </void>
+    <void property="birthDate">
+     <string>09.03.1814</string>
+    </void>
+    <void property="fullName">
+     <string>Шевченко Тарас</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.khpi.oop.vetrichenko07.AddressEntry">
+    <void property="address">
+     <string>Львів</string>
+    </void>
+    <void property="birthDate">
+     <string>05.05.1985</string>
+    </void>
+    <void property="fullName">
+     <string>Андрієнко Андрій</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.khpi.oop.vetrichenko07.AddressEntry">
+    <void property="address">
+     <string>Київ</string>
+    </void>
+    <void property="birthDate">
+     <string>01.01.1990</string>
+    </void>
+    <void property="fullName">
+     <string>Яковенко Петро</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="25.0.1" class="java.beans.XMLDecoder">
+ <array class="java.lang.Object" length="2">
+  <void index="0">
+   <object class="ua.khpi.oop.vetrichenko07.AddressEntry">
+    <void property="address">
+     <string>Львів</string>
+    </void>
+    <void property="birthDate">
+     <string>05.05.1995</string>
+    </void>
+    <void property="fullName">
+     <string>Петренко Петро</string>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="ua.khpi.oop.vetrichenko07.AddressEntry">
+    <void property="address">
+     <string>Харків</string>
+    </void>
+    <void property="birthDate">
+     <string>10.10.2000</string>
+    </void>
+    <void property="fullName">
+     <string>Сидоренко Сидір</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
